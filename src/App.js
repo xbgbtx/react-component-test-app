@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import ComponentLib from 'component-lib';
+
+var ComponentLib = require( 'component-lib' );
 
 function App() {
   return (
